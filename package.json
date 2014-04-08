@@ -1,0 +1,15 @@
+{
+  "name": "jofan-touchy",
+  "description": "Dispatches custom UI events to be used when normal events don't suffice.",
+  "version": "1.0.0",
+  "keywords": [
+    "html",
+    "library",
+    "touch",
+    "events",
+    "touchy"
+  ],
+  "main": "src/touchy.js",
+  "dependencies": {},
+  "license": "MIT"
+}
